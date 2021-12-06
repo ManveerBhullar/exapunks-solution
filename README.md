@@ -1,2 +1,2 @@
 # exapunks-solution
-Just my personal exapunks solutions
+Just my personal solutions for EXAPUNK puzzles
