@@ -3,9 +3,6 @@
 # exapunks-solution
 
 Just my personal solutions for EXAPUNK puzzles
-
-Not guaranteed to be the best, just what I put together
-
 ## ![icon](pics/icon.png) Answers ![icon](pics/icon.png)
 
 
