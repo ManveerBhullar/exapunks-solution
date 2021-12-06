@@ -14,7 +14,7 @@ Not guaranteed to be the best, just what I put together
 |[Trash World News 4](Solutions/TrashWorldNews4.md)|407|11|2|
 |[Euclids Pizza](Solutions/EuclidsPizza.md)|25|14|1
 |[Mitsuzen HDI-10](Solutions/MitsuzenHDI-10.md)|241|22|6
-|[Last Stop SNAXNET](Solutions/LastStopSNAXNET.md)|31|12|2
+|[Last Stop SNAXNET](Solutions/LastStopSnaxnet.md)|31|12|2
 |[Zebros Copies](Solutions/ZebrosCopies.md)|56|28|4
 |[SFCTA Highway Sign #4902](Solutions/SFCTAHighwaySign4902.md)|94|22|2
 |[Unknown Network 1](Solutions/UnknownNetwork1.md)|34|26|27
