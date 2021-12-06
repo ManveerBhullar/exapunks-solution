@@ -1,9 +1,12 @@
+![Logo](pics/logo.jpg)
+
 # exapunks-solution
+
 Just my personal solutions for EXAPUNK puzzles
 
 Not guaranteed to be the best, just what I put together
 
-## Answers
+## ![icon](pics/icon.png) Answers ![icon](pics/icon.png)
 
 
 | Puzzle | Cycles | Size | Activity |
