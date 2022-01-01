@@ -19,3 +19,4 @@ Just my personal solutions for EXAPUNK puzzles
 |[SFCTA Highway Sign #4902](Solutions/SFCTAHighwaySign4902.md)|94|22|2
 |[Unknown Network 1](Solutions/UnknownNetwork1.md)|34|26|27
 |[UC Berkeley](Solutions/UCBerkeley.md)|403|34|7
+|[Workhouse](Solutions/Workhouse.md)|533|36|2
