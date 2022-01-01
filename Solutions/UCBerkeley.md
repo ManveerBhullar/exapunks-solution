@@ -1,5 +1,6 @@
 # XA 
 ---
+```
 GRAB 300
 COPY F M
 COPY F M
@@ -12,9 +13,10 @@ SUBI T 1 T
 TJMP CLONE
 DROP
 HALT
-
+```
 # XB
 ---
+```
 COPY M X
 MARK TAPE
 LINK 800
@@ -37,3 +39,4 @@ SUBI T 1 T
 TJMP EXFIL
 DROP
 HALT
+```
