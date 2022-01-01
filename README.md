@@ -18,3 +18,4 @@ Just my personal solutions for EXAPUNK puzzles
 |[Zebros Copies](Solutions/ZebrosCopies.md)|56|28|4
 |[SFCTA Highway Sign #4902](Solutions/SFCTAHighwaySign4902.md)|94|22|2
 |[Unknown Network 1](Solutions/UnknownNetwork1.md)|34|26|27
+|[UC Berkeley](Solutions/UCBerkeley.md)|403|34|7
