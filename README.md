@@ -20,3 +20,4 @@ Just my personal solutions for EXAPUNK puzzles
 |[Unknown Network 1](Solutions/UnknownNetwork1.md)|34|26|27
 |[UC Berkeley](Solutions/UCBerkeley.md)|403|34|7
 |[Workhouse](Solutions/Workhouse.md)|533|36|2
+|[Equity First Bank](Solutions/EquityFirstBank.md)|4008|35|10
