@@ -23,3 +23,4 @@ Just my personal solutions for EXAPUNK puzzles
 |[Equity First Bank](Solutions/EquityFirstBank.md)|4008|35|10
 |[Mitsuzen HDI-10-2](Solutions/MitsuzenHDI-10-2.md)|126|36|7
 |[Trash World News 5](Solutions/TrashWorldNews5.md)|550|22|12|
+|[TEC Redshift](Solutions/TECRedshift.md)|4969|28|5|
