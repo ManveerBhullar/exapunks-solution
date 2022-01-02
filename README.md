@@ -5,9 +5,9 @@
 Just my personal solutions for EXAPUNK puzzles
 ## ![icon](pics/icon.png) Answers ![icon](pics/icon.png)
 
-
+I sometimes optimized solutions, most of the time kept the first attempt. Did not try battle puzzles.
 | Puzzle | Cycles | Size | Activity |
-|:--------:|:--------:|:------:|:----------:|
+|:--------: |:--------:|:------:|:----------:|
 |[Trash World News 1](Solutions/TrashWorldNews1.md)|4|3|2|
 |[Trash World News 2](Solutions/TrashWorldNews2.md)|8|7|2|
 |[Trash World News 3](Solutions/TrashWorldNews3.md)|11|12|4|
