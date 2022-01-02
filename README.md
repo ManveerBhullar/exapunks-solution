@@ -24,3 +24,4 @@ Just my personal solutions for EXAPUNK puzzles
 |[Mitsuzen HDI-10-2](Solutions/MitsuzenHDI-10-2.md)|126|36|7
 |[Trash World News 5](Solutions/TrashWorldNews5.md)|550|22|12|
 |[TEC Redshift](Solutions/TECRedshift.md)|4969|28|5|
+|[Digital Library Project](Solutions/DigitalLibraryProject.md)|452|42|87|
